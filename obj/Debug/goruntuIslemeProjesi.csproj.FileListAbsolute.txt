@@ -1,0 +1,18 @@
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.exe.config
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.exe
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.pdb
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.Form1.resources
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.Properties.Resources.resources
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.csproj.GenerateResource.cache
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.exe
+D:\Visual Studio 2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.pdb
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.exe.config
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.exe
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\bin\Debug\goruntuIslemeProjesi.pdb
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.csprojAssemblyReference.cache
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.Form1.resources
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.Properties.Resources.resources
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.csproj.GenerateResource.cache
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.exe
+C:\Users\senev\OneDrive\Masaüstü\Github\2019\Görüntü İşleme - İmage üzerinde işlemler\goruntuIslemeProjesi\obj\Debug\goruntuIslemeProjesi.pdb
